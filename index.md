@@ -1,3 +1,5 @@
+# Hello and Welcome to my Page
+## My names Madelaine and this is a page that I am using to learn Github for my seminar college class
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MLainSan/MLainSan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
