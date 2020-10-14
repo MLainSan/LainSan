@@ -6,3 +6,6 @@ Here I will most likely have:
 - Random stuff until I figure this out
 
 **Now I am testing out bold text** and _Italic text_, **I can _combine the types_** text _Like **this**_
+
+Here, have a picture of **my cat**
+![GitHub Logo](/images/logo.png)
