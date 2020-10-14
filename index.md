@@ -8,4 +8,4 @@ Here I will most likely have:
 **Now I am testing out bold text** and _Italic text_, **I can _combine the types_** text _Like **this**_
 
 Here, have a picture of **my cat**
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/61996932092__29CFCA9F-7A01-45CF-9EFF-34270D91CD87.JPG)
